@@ -34,3 +34,4 @@ const refs = {
       refs.checkbox.setAttribute('checked', true);
     }
   }
+  restoreTheme();
